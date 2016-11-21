@@ -1,0 +1,4 @@
+C:\Users\Kjersti\Desktop\DumbPirateGame\Assets\Console\dumbTestThing\dumbTestThing\bin\Debug\dumbTestThing.exe
+C:\Users\Kjersti\Desktop\DumbPirateGame\Assets\Console\dumbTestThing\dumbTestThing\bin\Debug\dumbTestThing.pdb
+C:\Users\Kjersti\Desktop\DumbPirateGame\Assets\Console\dumbTestThing\dumbTestThing\obj\x86\Debug\dumbTestThing.exe
+C:\Users\Kjersti\Desktop\DumbPirateGame\Assets\Console\dumbTestThing\dumbTestThing\obj\x86\Debug\dumbTestThing.pdb
